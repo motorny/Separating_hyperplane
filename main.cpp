@@ -20,7 +20,7 @@ int main(void)
   vC[0] = 0.0;
   vC[1] = 0.0;
   vC[2] = 1.0;
-  double eps = 1e-4;
+  double eps = 1e-3;
 
   Vec trueRes(DIM-1);
   trueRes[0] = 0.589754512301458;

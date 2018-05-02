@@ -7,7 +7,7 @@
 
 
 #define LOG_XK
-//#define LOG_YK
+#define LOG_YK
 //#define LOG_AK
 //#define LOG_BK
 #define LOG_STEP_NORM
